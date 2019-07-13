@@ -1,6 +1,8 @@
 import pandas as pd
 import numpy as np
 
+
+
 data_homeless = pd.read_csv('../../LA_Homelessness_Count.csv')
 data_homeless.head()
 
